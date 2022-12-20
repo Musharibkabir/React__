@@ -3,5 +3,5 @@
       "react-app",
       "react-app/jest"
     ]
-     "react": "^20.2.0",
-    "react-dom": "^20.2.0",
+     "react": "^20.1.0",
+    "react-dom": "^20.1.0",
